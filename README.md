@@ -2,9 +2,9 @@
 
 #Unlock fixed pools --> https://t.me/cubich
 
-#Donate firmware --> https://github.com/mekas17/fw/tree/main/ANTMINER
+#Donate firmware --> https://github.com/akmik13/fw/tree/main/ANTMINER
 
-#Поддержать партнерской прошивкой --> https://github.com/mekas17/fw/tree/main/ANTMINER
+#Поддержать партнерской прошивкой --> https://github.com/akmik13/fw/tree/main/ANTMINER
 
 # Error List
 

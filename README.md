@@ -1,6 +1,6 @@
 # InnoSilicon Firmware
 
-#Unlock fixed pools --> https://t.me/cubich
+#Unlock fixed pools --> https://t.me/kimka1974
 
 #Donate firmware --> https://github.com/akmik13/fw/tree/main/ANTMINER
 
